@@ -1,0 +1,13 @@
+p {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+.klasa{
+    background-color: blue;
+}
+
+.grupa{
+    opacity: 50%;
+}
